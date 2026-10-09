@@ -1,0 +1,8 @@
+data/
+__pycache__/
+.terraform/
+*.tfstate*
+terraform.tfvars
+terraform/killswitch.zip
+.pytest_cache/
+.venv/

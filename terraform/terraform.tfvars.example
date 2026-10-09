@@ -1,0 +1,4 @@
+project_id         = "your-project-id"
+billing_account_id = "XXXXXX-XXXXXX-XXXXXX"
+alert_email        = "you@example.com"
+invite_code        = "choose-a-long-random-code"

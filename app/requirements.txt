@@ -1,0 +1,5 @@
+flask==3.*
+pillow==11.*
+gunicorn==23.*
+google-cloud-storage
+google-cloud-firestore
